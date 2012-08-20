@@ -1,4 +1,6 @@
 [
+	{ "keys": ["ctrl+shift+n"], "command": "new_file" },
+	{ "keys": ["ctrl+shift+o"], "command": "prompt_open_file" },
 	{ "keys": ["super+shift+a"], "command": "goto_drupalapi" },
 	{ "keys": ["alt+r"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
 	{ "keys": ["alt+g"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
